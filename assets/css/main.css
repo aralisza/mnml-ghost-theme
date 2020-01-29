@@ -244,6 +244,7 @@ input:focus, textarea:focus{
 
 li {
   margin-top: .25rem;
+  margin-left: 1rem;
 }
 
 dl dt {
